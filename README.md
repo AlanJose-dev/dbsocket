@@ -32,3 +32,5 @@ Then, run the <code>composer install</code>. Then configure your environment wit
 ### Basic usage example
 
 ![Basic usage.](./docs/img/connectorrouter_dynamic_usage.png)
+
+### See the <a href="https://github.com/AlanJose-dev/dbsocket/blob/master/docs/USAGE.md">USAGE</a> guide.
